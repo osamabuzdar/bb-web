@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/bb-web/static/css/main.54915827.css",
-    "main.js": "/bb-web/static/js/main.7acee4c8.js",
-    "static/js/453.fdf64be6.chunk.js": "/bb-web/static/js/453.fdf64be6.chunk.js",
-    "static/media/portraitabout.png": "/bb-web/static/media/portraitabout.a823a9eec8f068072eaa.png",
-    "index.html": "/bb-web/index.html",
-    "main.54915827.css.map": "/bb-web/static/css/main.54915827.css.map",
-    "main.7acee4c8.js.map": "/bb-web/static/js/main.7acee4c8.js.map",
-    "453.fdf64be6.chunk.js.map": "/bb-web/static/js/453.fdf64be6.chunk.js.map"
+    "main.css": "/static/css/main.cf1392cb.css",
+    "main.js": "/static/js/main.d9fc085d.js",
+    "static/js/453.fdf64be6.chunk.js": "/static/js/453.fdf64be6.chunk.js",
+    "static/media/portraitabout.png": "/static/media/portraitabout.a823a9eec8f068072eaa.png",
+    "index.html": "/index.html",
+    "main.cf1392cb.css.map": "/static/css/main.cf1392cb.css.map",
+    "main.d9fc085d.js.map": "/static/js/main.d9fc085d.js.map",
+    "453.fdf64be6.chunk.js.map": "/static/js/453.fdf64be6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.54915827.css",
-    "static/js/main.7acee4c8.js"
+    "static/css/main.cf1392cb.css",
+    "static/js/main.d9fc085d.js"
   ]
 }
