@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bb-website/static/css/main.2174a463.css",
+    "main.js": "/bb-website/static/js/main.f15f9996.js",
+    "static/js/453.fdf64be6.chunk.js": "/bb-website/static/js/453.fdf64be6.chunk.js",
+    "static/media/portraitabout.png": "/bb-website/static/media/portraitabout.a823a9eec8f068072eaa.png",
+    "index.html": "/bb-website/index.html",
+    "main.2174a463.css.map": "/bb-website/static/css/main.2174a463.css.map",
+    "main.f15f9996.js.map": "/bb-website/static/js/main.f15f9996.js.map",
+    "453.fdf64be6.chunk.js.map": "/bb-website/static/js/453.fdf64be6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2174a463.css",
+    "static/js/main.f15f9996.js"
+  ]
+}
