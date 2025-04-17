@@ -2,7 +2,7 @@
   "name": "bulk-byte",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://osamabuzdar.github.io/bb-web",
+  "homepage": "https://www.bulkbytes.org",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.7.2",
     "@fortawesome/free-solid-svg-icons": "^6.7.2",
