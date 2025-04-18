@@ -1,6 +1,5 @@
 import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import Privacy from './Pages/Privacy';
 import Navbar from "./navbar/Navbar";
 import Home from "./Pages/Home";
 import About from "./Pages/About";
@@ -29,7 +28,6 @@ const App = () => {
         <Route path="/portfolio" element={<Portfolio />} />
         <Route path="/contact" element={<Contact />} />
         <Route path="/team-members" element={<ProfileCard/>} />
-        <Route path="/privacy" element={<Privacy />} />
       </Routes>
       <Footer/>
     </Router>
