@@ -1,7 +1,16 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
-    <meta http-equiv="refresh" content="0;url=/" />
+    <meta charset="UTF-8" />
+    <script type="text/javascript">
+      // Get the current path
+      var redirectTo = window.location.pathname;
+      // Rewrite to index.html and pass the path in the hash
+      window.location.replace("/#" + redirectTo);
+    </script>
+    <title>Redirecting...</title>
   </head>
-  <body></body>
+  <body>
+    <h2>Redirecting...</h2>
+  </body>
 </html>
