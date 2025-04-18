@@ -1,11 +1,12 @@
 import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import Navbar from "./navbar/Navbar"; // Adjust to the correct path if necessary
+import Privacy from './Pages/Privacy';
+import Navbar from "./navbar/Navbar";
 import Home from "./Pages/Home";
 import About from "./Pages/About";
 import CustomSoftwares from "./Services/CustomSoftwares";
 import WebDevelopment from "./Services/WebDevelopment";
-import MobileAppDevelopment from "./Services/MobileDevelopment"; // Ensure file name matches
+import MobileAppDevelopment from "./Services/MobileDevelopment";
 import AIDevelopment from "./Services/AiDevelopment";
 import Portfolio from "./Pages/Portfolio";
 import Contact from "./Pages/Contact";
@@ -28,6 +29,7 @@ const App = () => {
         <Route path="/portfolio" element={<Portfolio />} />
         <Route path="/contact" element={<Contact />} />
         <Route path="/team-members" element={<ProfileCard/>} />
+        <Route path="/privacy" element={<Privacy />} />
       </Routes>
       <Footer/>
     </Router>
